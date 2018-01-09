@@ -1,2 +1,3 @@
 # RDA5981
-RDA5981A ( 8 MB ) RDA5981B ( 16MB )  RDA5981C ( 32 MB ) 
+ 
+![alt text](https://raw.githubusercontent.com/RDA5981/RDA5981/master/Overview.png)
